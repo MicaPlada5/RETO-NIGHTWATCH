@@ -1,0 +1,14 @@
+terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/5.96.0/linux_amd64/terraform-provider-aws_v5.96.0_x5 filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
+*.yml filter=lfs diff=lfs merge=lfs -text
+*.ini filter=lfs diff=lfs merge=lfs -text
+*.yaml filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.sh filter=lfs diff=lfs merge=lfs -text
+*.hcl filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.0_x5 filter=lfs diff=lfs merge=lfs -text
+*.tf filter=lfs diff=lfs merge=lfs -text
+*.tfstate filter=lfs diff=lfs merge=lfs -text
+*.backup filter=lfs diff=lfs merge=lfs -text
+*.tfvars filter=lfs diff=lfs merge=lfs -text
